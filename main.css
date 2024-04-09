@@ -4,6 +4,7 @@ body {
 }
  article  {
   font-size: 18px;
+  
 }
  h3 {
   font-weight: 800;
@@ -12,4 +13,6 @@ body {
   div {
     background-color:burlywood;
   }
-  
+   ul li {
+    background-color: darkgreen;
+   }
